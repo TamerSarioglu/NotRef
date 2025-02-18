@@ -72,17 +72,3 @@ The project uses the following key dependencies:
 ## ProGuard
 
 The `proguard-rules.pro` file is included for configuring code shrinking and obfuscation.
-
-## Further Development
-
-This project provides a basic setup. Further development may involve:
-
-*   Implementing UI screens using Jetpack Compose.
-*   Defining Room entities and DAOs for data persistence.
-*   Creating Hilt modules for dependency injection.
-*   Adding navigation using `androidx.navigation:navigation-compose`.
-*   Implementing business logic and data handling.
-
-## License
-
-[Specify the license here, e.g., Apache 2.0]
